@@ -56,4 +56,4 @@ While Milvus projects an aura of sophistication with its feature-rich offerings,
 
 ## **2023: A Year of Vector Database Revelations**
 
-The narrative of 2023, in the realm of [vector database](https://cheatsheet.md/llm-leaderboard/vector-database), is a tale of diversity, innovation, and choices. While open-source platforms like FAISS, Annoy, and NMSLib exude innovation and adaptability, commercial stalwarts like Milvus bring reliability and comprehensive features. The onus lies in aligning with a platform that resonates with an organization's technical prerequisites, financial outlook, and visionary trajectory.
+The narrative of 2023, in the realm of [vector database](https://cheatsheet.md/vector-database/best-vector-database), is a tale of diversity, innovation, and choices. While open-source platforms like FAISS, Annoy, and NMSLib exude innovation and adaptability, commercial stalwarts like Milvus bring reliability and comprehensive features. The onus lies in aligning with a platform that resonates with an organization's technical prerequisites, financial outlook, and visionary trajectory.
